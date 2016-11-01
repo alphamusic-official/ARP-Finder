@@ -1,4 +1,4 @@
-***ARP-Finder*** ARP-Finder by SCWL Studio
+***ARP-Finder by SCWL Studio***
 
 **Install**
 
