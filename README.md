@@ -2,7 +2,7 @@
 
 ARP-Finder by SCWL Studio
 
-Install
+**Install**
 
 1. Drap this file to work dir
 
