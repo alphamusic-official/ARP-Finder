@@ -1,8 +1,7 @@
-** ARP-Finder **
+***ARP-Finder***
 ARP-Finder by SCWL Studio
 ***
 Install
-***
 1. Drap this file to work dir
 ***
 2. In your python-file write "import arpfider"
