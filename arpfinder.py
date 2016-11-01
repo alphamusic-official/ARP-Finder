@@ -15,8 +15,7 @@ def checkMac(addrs):
             break
     proc.kill()
     return output[24:41]
-def CheckArp(addrs):
-    mac_ars = checkMac(addrs)
+def CheckArp(addrs,mac_ars):
     if mac_ars!=checkMac(addrs):
         return 1
     else:
